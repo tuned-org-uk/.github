@@ -9,10 +9,11 @@
 I work on systems for safer AI Agents and **LLM-focused technologies in databases**.
 
 Please take a look at:
-* [`arrowspace`](https://crates.io/crates/arrowspace) and [pyarrowspace](https://github.com/tuned-org-uk/pyarrowspace): a paper and a repository for a graph-based approach to vector search, inspired by current research on metamaterials 
-* [`nanochat-rs`](https://github.com/tuned-org-uk/nanochat-rs): a porting in Rust of NanoGPT, the super-efficient LLM model
-* [`optical-embeddings`](https://crates.io/crates/optical-embeddings): A Rust implementation for DeepSeek-OCR text to image compression
+* [`arrowspace`](https://crates.io/crates/arrowspace) and [`pyarrowspace`](https://github.com/tuned-org-uk/pyarrowspace): a paper and a repository for a graph-based approach to vector search, inspired by current research on metamaterials
 * [`smartcore`](https://crates.io/crates/smartcore): a Machine Learning library in Rust
+* [`javelin`](https://github.com/tuned-org-uk/javelin-tui): a data tool for graph exploration using the Lance file format
+* [`nanogpt-rs`](https://github.com/tuned-org-uk/nanogpt-rs): a porting in Rust of NanoGPT, the super-efficient LLM model
+* [`optical-embeddings`](https://crates.io/crates/optical-embeddings): A Rust implementation for DeepSeek-OCR text to image compression
 * [`bmpp-agents-rs`](https://github.com/Mec-iS/bmpp-agents-rs): a framework for safe AI-coding agents
 * [`vibelang-rs`](https://github.com/Mec-iS/vibelang-rs): a Rust implementation of Meaning Typed Prompting, a protocol to represent prompting to human and LLMs
 
