@@ -6,7 +6,7 @@
    - You can read my seminal paper on Spectral Indexing at JOSS -> [link to paper](https://joss.theoj.org/papers/10.21105/joss.09002)
    - I provide services for companies willing to tackle properly the era of LLMs, see my sponsorship tiers -> https://github.com/sponsors/tuned-org-uk 💰
 
-I work on systems for safer AI Agents and **LLM-focused technologies in databases**.
+I work on systems for safer AI Agents and **LLM-focused technologies in databases**. I develop libraries with minimalism as design principle.
 
 Please take a look at:
 * [`arrowspace`](https://crates.io/crates/arrowspace) and [`pyarrowspace`](https://github.com/tuned-org-uk/pyarrowspace): a paper and a repository for a graph-based approach to vector search, inspired by current research on metamaterials
