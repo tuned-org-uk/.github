@@ -3,7 +3,7 @@
 👋 Welcome 📺🛰️
    - I am [@Mec-iS](https://github.com/Mec-iS) and I do AI research engineering from London, UK
    - The main effort of this organisation is to build the next generation of vector databases, ready for the challenges of modern context architecting
-   - You can read my seminal paper on Spectral Indexing at JOSS -> [link to paper](https://joss.theoj.org/papers/10.21105/joss.09002)
+   - You can read my seminal paper on Topological Indexing of vector spaces at JOSS -> [link to paper](https://joss.theoj.org/papers/10.21105/joss.09002)
    - I provide services for companies willing to tackle properly the era of LLMs, see my sponsorship tiers -> https://github.com/sponsors/tuned-org-uk 💰
 
 I work on systems for safer AI Agents and **LLM-focused technologies in databases**. I develop libraries with minimalism as design principle.
