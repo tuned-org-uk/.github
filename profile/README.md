@@ -9,6 +9,7 @@
 I work on systems for safer AI Agents and **LLM-focused technologies in databases**. I develop libraries with minimalism as design principle.
 
 Please take a look at:
+* [`tauformer`](https://github.com/tuned-org-uk/tauformer) and [Topological Transfomer Paper](https://github.com/tuned-org-uk/tauformer-paper): Challenge high-dimensionality in the Attention mechanism using topological search 
 * [`arrowspace`](https://crates.io/crates/arrowspace) and [`pyarrowspace`](https://github.com/tuned-org-uk/pyarrowspace): a paper and a repository for a graph-based approach to vector search, inspired by current research on metamaterials
 * [`smartcore`](https://crates.io/crates/smartcore): a Machine Learning library in Rust
 * [`genegraph-storage`](https://github.com/tuned-org-uk/genegraph-storage): a storage layer for matrices and graph data
