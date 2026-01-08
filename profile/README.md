@@ -15,6 +15,7 @@ Please take a look at:
 * [`genegraph-storage`](https://github.com/tuned-org-uk/genegraph-storage): a storage layer for matrices and graph data
 * [`javelin`](https://github.com/tuned-org-uk/javelin-tui): a data tool for graph exploration using the Lance file format
 * [`nanogpt-rs`](https://github.com/tuned-org-uk/nanogpt-rs): a porting in Rust of NanoGPT, the super-efficient LLM model
+* [`deep-delta-learn`](https://github.com/tuned-org-uk/deep-delta-rs): an implementation of the Deep Delta Learning paper
 * [`optical-embeddings`](https://crates.io/crates/optical-embeddings): A Rust implementation for DeepSeek-OCR text to image compression
 * [`bmpp-agents-rs`](https://github.com/Mec-iS/bmpp-agents-rs): a framework for safe AI-coding agents
 * [`vibelang-rs`](https://github.com/Mec-iS/vibelang-rs): a Rust implementation of Meaning Typed Prompting, a protocol to represent prompting to human and LLMs
